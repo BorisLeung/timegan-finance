@@ -45,3 +45,7 @@ See [example](./example.ipynb) for an end-to-end application.
 - `save(path)` / `load(path)` — serializes and loads the trained TimeGAN model.
 - `models` — returns a list of all submodels; raises if not initialized.
 - `PHASES` — nested class with string constants: `EMBEDDING`, `SUPERVISED`, `JOINT`.
+
+## Postscript
+
+Some thoughts after implementing and running a few trials, documented [here](postscript.md).
