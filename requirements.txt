@@ -1,0 +1,6 @@
+matplotlib
+mplfinance
+pandas
+scikit-learn
+torch
+tqdm
